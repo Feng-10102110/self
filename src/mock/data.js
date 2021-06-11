@@ -21,7 +21,7 @@ export const aboutData = {
   paragraphOne: 'Hi, My Chinese name is 鄭嘉峰',
   paragraphTwo: 'I am from Changhua, a city in Taiwan province.',
   paragraphThree: 'I want to stay in Changhua to find a suitable job for myself.',
-  resume: 'https://www.resumemaker.online/es.php', // if no resume, the button will not show up
+  resume: '', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
@@ -29,20 +29,20 @@ export const projectsData = [
   {
     id: nanoid(),
     img: 'project.jpg',
-    title: '',
-    info: '',
-    info2: '',
-    url: '',
-    repo: 'https://feng-10102110.github.io/TWpapago/', // if no repo, the button will not show up
+    title: '1',
+    info: '2',
+    info2: '3',
+    url: 'https://feng-10102110.github.io/TWpapago/',
+    repo: '', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
     img: 'project.jpg',
-    title: '',
-    info: '',
-    info2: '',
-    url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+    title: '1',
+    info: '2',
+    info2: '3',
+    url: 'https://feng-10102110.github.io/Hulacat/',
+    repo: '', // if no repo, the button will not show up
   },
 ];
 

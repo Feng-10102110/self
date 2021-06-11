@@ -54,9 +54,7 @@ export const contactData = {
 };
 
 // FOOTER DATA
-export const footerData = {
-  ],
-};
+export const footerData = {};
 
 // Github start/fork buttons
 export const githubButtons = {

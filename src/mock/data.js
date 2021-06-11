@@ -9,18 +9,18 @@ export const headData = {
 
 // HERO DATA
 export const heroData = {
-  title: '嗨',
-  name: '我',
-  subtitle: '人員',
-  cta: '了解',
+  title: 'Hallo,My name is ',
+  name: 'ZHENG,JIA-FENG',
+  subtitle: 'I am glad you could come',
+  cta: 'About me',
 };
 
 // ABOUT DATA
 export const aboutData = {
   img: 'profile.jpg',
-  paragraphOne: '11111',
-  paragraphTwo: '22222',
-  paragraphThree: '333333',
+  paragraphOne: 'Hi, My Chinese name is 鄭嘉峰',
+  paragraphTwo: 'I am from Changhua, a city in Taiwan province.',
+  paragraphThree: 'I want to stay in Changhua to find a suitable job for myself.',
   resume: 'https://www.resumemaker.online/es.php', // if no resume, the button will not show up
 };
 
@@ -33,16 +33,7 @@ export const projectsData = [
     info: '',
     info2: '',
     url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
-  },
-  {
-    id: nanoid(),
-    img: 'project.jpg',
-    title: '',
-    info: '',
-    info2: '',
-    url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+    repo: 'https://feng-10102110.github.io/TWpapago/', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
@@ -57,34 +48,13 @@ export const projectsData = [
 
 // CONTACT DATA
 export const contactData = {
-  cta: '1111',
-  btn: '1111',
-  email: '1111',
+  cta: 'Contact mail',
+  btn: 'Click here',
+  email: 'blackdim10102110@gmail.com',
 };
 
 // FOOTER DATA
 export const footerData = {
-  networks: [
-    {
-      id: nanoid(),
-      name: 'twitter',
-      url: '',
-    },
-    {
-      id: nanoid(),
-      name: 'codepen',
-      url: '',
-    },
-    {
-      id: nanoid(),
-      name: 'linkedin',
-      url: '',
-    },
-    {
-      id: nanoid(),
-      name: 'github',
-      url: '',
-    },
   ],
 };
 

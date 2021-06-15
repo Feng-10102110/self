@@ -39,7 +39,7 @@ export const projectsData = [
     id: nanoid(),
     img: '2.PNG',
     title: '呼拉貓鬆餅舖訂購網頁',
-    info: '以Free Website Templates佈景設計為底，Visual Studio Code為工具做開發，運用HTML，與CSS建構網頁',
+    info: '以Visual Studio Code為工具做開發，運用HTML，與CSS建構網頁',
     info2: '運用所學貼近自己的生活，以自家親人開的小店建構出訂購網頁',
     url: 'https://feng-10102110.github.io/Hulacat/',
     repo: '', // if no repo, the button will not show up

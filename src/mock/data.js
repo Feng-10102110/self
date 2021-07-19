@@ -20,7 +20,6 @@ export const aboutData = {
   img: 'profile.jpg',
   paragraphOne: 'Hi, My Chinese name is 鄭嘉峰',
   paragraphTwo: 'I am from Changhua, a city in Taiwan province.',
-  paragraphThree: 'I want to stay in Changhua to find a suitable job for myself.',
   resume: '', // if no resume, the button will not show up
 };
 
